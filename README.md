@@ -20,6 +20,9 @@ Answer in the context of BlueZ Gatttool:
 
     * A characteristic value is an identifier for specific features.
 
+    * Characteristic value handle of environmnental data.
+        * handle: 0x000e, uuid: 00140000-0001-11e1-ac36-0002a5d5c51b
+
 5. Translate the data recorded in the final text file: test.txt to physical values. (you could write a python program to automate this, otherwise you can do it manually.)
 
 
@@ -92,9 +95,6 @@ Answer in the context of BlueZ Gatttool:
 * The environmental data should be read from right to left (little endian rule).
 
 * The ST LED is composed of feature mask (F), which is 20000000, and command (C), which is 01 (1).
-
-
-C0:6E:48:32:48:36
 
 * Characteristic value handle of environmnental data.
 
