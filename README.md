@@ -76,6 +76,10 @@ Answer in the context of BlueZ Gatttool:
 2. Save Requested Motion Data to Text File as in section 4 of the tutorial 8 and submit  text file: motion_data.txt
 
 
+<h1> References </h1>
+Texas Instruments. (2016). Generic Attribute Profile (GATT). BLE-Stack User’s Guide. https://software-dl.ti.com/lprf/sdg-latest/html/ble-stack-3.x/gatt.html?highlight=characteristic%20value#gatt-characteristics-and-attributes
+
+
 # Notes
 
 * GATT stands for Generic Attributes, and it defines a hierarchical data structure that is exposed to connected BLE devices.
