@@ -18,8 +18,10 @@ Answer in the context of BlueZ Gatttool:
 
 2. What is a characteristic value and give an example of one of them
 
+    * Characteristics organize attributes and uses them as data values etc.
+    
     * A characteristic value is an identifier for specific features.
-
+    
     * Characteristic value handle of environmnental data.
         * handle: 0x000e, uuid: 00140000-0001-11e1-ac36-0002a5d5c51b
 
@@ -74,10 +76,6 @@ Answer in the context of BlueZ Gatttool:
 1. Take screenshots corresponding to Figures 8, 13 and 15
 
 2. Save Requested Motion Data to Text File as in section 4 of the tutorial 8 and submit  text file: motion_data.txt
-
-
-<h1> References </h1>
-Texas Instruments. (2016). Generic Attribute Profile (GATT). BLE-Stack User’s Guide. https://software-dl.ti.com/lprf/sdg-latest/html/ble-stack-3.x/gatt.html?highlight=characteristic%20value#gatt-characteristics-and-attributes
 
 
 # Notes
