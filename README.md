@@ -18,7 +18,7 @@ Answer in the context of BlueZ Gatttool:
 
 2. What is a characteristic value and give an example of one of them
 
-    * Characteristics organize attributes and uses them as data values etc.
+    * Characteristics organize attributes and use them as data values etc.
     
     * A characteristic value is an identifier for specific features.
     
