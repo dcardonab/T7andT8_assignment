@@ -25,6 +25,10 @@ Answer in the context of BlueZ Gatttool:
     * Characteristic value handle of environmnental data.
         * handle: 0x000e, uuid: 00140000-0001-11e1-ac36-0002a5d5c51b
 
+3. Create your own versions of the figures 1 to 23.
+
+4. submit your test.txt file as in Figure 23.
+
 5. Translate the data recorded in the final text file: test.txt to physical values. (you could write a python program to automate this, otherwise you can do it manually.)
 
 
@@ -77,8 +81,12 @@ Answer in the context of BlueZ Gatttool:
 
 2. Save Requested Motion Data to Text File as in section 4 of the tutorial 8 and submit  text file: motion_data.txt
 
+
 # References
+
 * Texas Instruments. (2016). Generic Attribute Profile (GATT). BLE-Stack User’s Guide. https://software-dl.ti.com/lprf/sdg-latest/html/ble-stack-3.x/gatt.html?highlight=characteristic%20value#gatt-characteristics-and-attributes
+
+
 # Notes
 
 * GATT stands for Generic Attributes, and it defines a hierarchical data structure that is exposed to connected BLE devices.
