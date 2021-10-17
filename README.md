@@ -1,3 +1,9 @@
+# Team Members
+
+* David Cardona
+* Robert Fischer
+* Sanjeev Nandal
+
 # Tutorial 7
 
 ## Part 1
